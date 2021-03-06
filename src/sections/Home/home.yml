@@ -1,0 +1,6 @@
+content:
+ - <h1>Hola, me llamo</h1>
+ - <h2>Oscar Viana</h2>
+ - <h3>Desarrollador Web</h3>
+ - <p>Disfruto creando y construyendo (en ocasiones diseñando) aplicaciones y sitios web excepcionales, entre otras cosas.</p>
+ - <a href="#contact" class="email-link">Escríbeme</a>
